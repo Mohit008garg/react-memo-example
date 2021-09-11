@@ -16,5 +16,5 @@ You will also see any lint errors in the console.
 
 # This is the example for react memo
 
-We have explainned the concept under the below youtube link
+We have explainned the concept under the below youtube link.\
 https://youtu.be/FEo5YVnJdz0
