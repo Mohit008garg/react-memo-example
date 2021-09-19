@@ -8,7 +8,7 @@ function MyParentComponent() {
     return (
         <div>
             <h3>{parentStateTracker}</h3>
-            <button onClick={changeStateOfParent}>Change State Of Parent</button> 
+            <button onClick={changeStateOfParent}>Change State Of Parent One</button> 
             <br/>
             <MyChildComponent />
         </div>
